@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\game1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8125437-2644-4C1D-9A54-4F735631D797}|game1\\game1.vcxproj|C:\\Users\\me\\source\\repos\\game1\\game1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8125437-2644-4C1D-9A54-4F735631D797}|game1\\game1.vcxproj|solutionrelative:game1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8125437-2644-4C1D-9A54-4F735631D797}|game1\\game1.vcxproj|C:\\Users\\me\\source\\repos\\game1\\game1\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8125437-2644-4C1D-9A54-4F735631D797}|game1\\game1.vcxproj|solutionrelative:game1\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8125437-2644-4C1D-9A54-4F735631D797}|game1\\game1.vcxproj|C:\\Users\\me\\source\\repos\\game1\\game1\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8125437-2644-4C1D-9A54-4F735631D797}|game1\\game1.vcxproj|solutionrelative:game1\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\game1\\game1\\test.c",
+              "RelativeDocumentMoniker": "game1\\test.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\game1\\game1\\test.c",
+              "RelativeToolTip": "game1\\test.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T10:09:52.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\game1\\game1\\game.c",
+              "RelativeDocumentMoniker": "game1\\game.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\game1\\game1\\game.c",
+              "RelativeToolTip": "game1\\game.c",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T10:10:41.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\game1\\game1\\game.h",
+              "RelativeDocumentMoniker": "game1\\game.h",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\game1\\game1\\game.h",
+              "RelativeToolTip": "game1\\game.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T10:11:07.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
