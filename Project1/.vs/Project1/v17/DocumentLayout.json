@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7F4280-DA7D-42A6-9981-5456935C92A0}|Project1\\Project1.vcxproj|C:\\Users\\me\\source\\repos\\Project1\\Project1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C7F4280-DA7D-42A6-9981-5456935C92A0}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7F4280-DA7D-42A6-9981-5456935C92A0}|Project1\\Project1.vcxproj|C:\\Users\\me\\source\\repos\\Project1\\Project1\\sum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C7F4280-DA7D-42A6-9981-5456935C92A0}|Project1\\Project1.vcxproj|solutionrelative:Project1\\sum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project1\\Project1\\sum.c",
+              "RelativeDocumentMoniker": "Project1\\sum.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project1\\Project1\\sum.c",
+              "RelativeToolTip": "Project1\\sum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T09:46:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project1\\Project1\\test.c",
+              "RelativeDocumentMoniker": "Project1\\test.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project1\\Project1\\test.c",
+              "RelativeToolTip": "Project1\\test.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T09:04:02.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

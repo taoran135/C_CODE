@@ -1,0 +1,14 @@
+﻿  test.c
+C:\Users\me\source\repos\Project10\Project10\test.c(198,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\me\source\repos\Project10\Project10\test.c(198,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\me\source\repos\Project10\Project10\test.c(199,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\me\source\repos\Project10\Project10\test.c(199,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\me\source\repos\Project10\Project10\test.c(200,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\me\source\repos\Project10\Project10\test.c(200,9):
+      请考虑在格式字符串中使用“%zu”
+  
+  Project10.vcxproj -> C:\Users\me\source\repos\Project10\x64\Debug\Project10.exe

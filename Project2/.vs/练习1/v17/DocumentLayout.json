@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|C:\\Users\\me\\source\\repos\\Project2\\Project2\\\u7EC3\u4E601.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\\u7EC3\u4E601.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|C:\\Users\\me\\source\\repos\\Project2\\Project2\\smile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\smile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|C:\\Users\\me\\source\\repos\\Project2\\Project2\\jolly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\jolly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|C:\\Users\\me\\source\\repos\\Project2\\Project2\\ic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\ic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|C:\\Users\\me\\source\\repos\\Project2\\Project2\\deny.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\deny.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|C:\\Users\\me\\source\\repos\\Project2\\Project2\\br.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79864301-5A99-4433-804E-3AD44FA3E64A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\br.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7EC3\u4E601.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\\u7EC3\u4E601.c",
+              "RelativeDocumentMoniker": "Project2\\\u7EC3\u4E601.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\\u7EC3\u4E601.c",
+              "RelativeToolTip": "Project2\\\u7EC3\u4E601.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T07:09:27.255Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ic.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\ic.c",
+              "RelativeDocumentMoniker": "Project2\\ic.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\ic.c",
+              "RelativeToolTip": "Project2\\ic.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T08:43:54.767Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "smile.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\smile.c",
+              "RelativeDocumentMoniker": "Project2\\smile.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\smile.c",
+              "RelativeToolTip": "Project2\\smile.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T08:57:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "br.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\br.c",
+              "RelativeDocumentMoniker": "Project2\\br.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\br.c",
+              "RelativeToolTip": "Project2\\br.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T08:43:36.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "deny.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\deny.c",
+              "RelativeDocumentMoniker": "Project2\\deny.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\deny.c",
+              "RelativeToolTip": "Project2\\deny.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T07:28:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jolly.c",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\jolly.c",
+              "RelativeDocumentMoniker": "Project2\\jolly.c",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\Project2\\Project2\\jolly.c",
+              "RelativeToolTip": "Project2\\jolly.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T07:26:26.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
